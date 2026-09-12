@@ -1,5 +1,5 @@
 a=25
-b=5
+b=57
 sum=a+b
 sub=a-b
 print("the addition of a and b is:",sum)
